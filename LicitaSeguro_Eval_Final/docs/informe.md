@@ -4,7 +4,7 @@
 
 **Proyecto:** LicitaSeguro
 **Evaluación:** Examen Final Desarrollo Frontend
-**Estudiante:** Jhonny [Agregar apellido]
+**Estudiante:** Johnny Villarreal
 **Tecnologías utilizadas:** HTML5, CSS3, JavaScript puro y Bootstrap 5
 **Formato de documentación:** Markdown
 
